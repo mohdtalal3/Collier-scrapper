@@ -1,0 +1,348 @@
+Addresses Used:
+2743 Pierce St, Hollywood, FL 33020, USA
+566 NW 1st St, Miami, FL 33128, USA
+522 E 25th St, Hialeah, FL 33013, USA
+650 Beacom Blvd, Miami, FL 33135, USA
+1690 NW 19th Terrace, Miami, FL 33125, USA
+11417 SW 214th St, Miami, FL 33189, USA
+308 NW 159th St, Miami, FL 33169, USA
+660 85th St, & 709 83rd St., Miami Beach, FL 33141, USA
+711 NW 32nd Pl, Miami, FL 33125, USA
+3641 NW 22nd Ave, Miami, FL 33142, USA
+3644 NW 21st Ct, Miami, FL 33142, USA
+295 NW 157th St, Miami, FL 33169, USA
+50 NE 179th St, Miami, FL 33162, USA
+201 SW 8th St & 720 SW 2nd Ave, Miami, FL 33130, USA
+1651 NW 3rd St, Miami, FL 33125, USA
+755 Shotgun Rd, Sunrise, FL 33326, USA
+244 NE 1st St, Miami, FL 33132, USA
+11 Weston Rd, Sunrise, FL 33326, USA
+2200 Biscayne Blvd, Miami, FL 33137, USA
+7900 NW 21st St, Miami, FL 33126, USA
+3241 NW 7th St, Miami, FL 33125, USA
+7000 NW 8th Ave, Miami, FL 33150, USA
+2534 SW 6th St, Miami, FL 33135, USA
+1343 NW 1st St, Miami, FL 33125, USA
+1390 NW 14th Ave, Miami, FL 33125, USA
+340 NW S River Drive Miami, FL 33128
+1600 NW 165th St, North Miami Beach, FL 33169, USA
+555 SW 148th Ave, Davie, FL 33325, USA
+5355 SW 76th Ave, Davie, FL 33328, USA
+903 SW 13th Ct, Miami, FL 33135, USA
+251 E Flagler St, Miami, FL 33131, USA
+530 NE 167th St, Miami, FL 33162, USA
+2567 E 11th Ave, Hialeah, FL 33013, USA
+2500 SW 8th St, Miami, FL 33135, USA
+12550 Biscayne Blvd Suite 304B, North Miami, FL 33181, USA
+27501 S Dixie Hwy, Homestead, FL 33032, USA
+218 SW 7th Ave, Miami, FL 33130, USA
+Red Road and Miramar Parkway Miramar, FL 33025
+3131 W Hallandale Beach Blvd, Hallandale Beach, FL 33009, USA
+9001 NW 22nd Ave, Miami, FL 33147, USA
+1001 NW 163rd Dr, & 16560 NW 10th Ave, Miami, FL 33169, USA
+3032-3036 NW 7th Ave, Miami, FL 33127, USA
+1315 NE Miami Ct, Miami, FL 33132, USA
+3237 NW 7th St, Miami, FL 33125, USA
+2180 Brickell Ave, Miami, FL 33129, USA
+1010 & 1014 NE 78th Rd, Miami, FL 33138, USA
+1501 NW 37th St, Miami, FL 33142, USA
+950 Plantation Island Dr S, St. Augustine, FL 32080, USA
+Sawgrass Expy, Sunrise, FL, USA
+12399 Sheridan St, Hollywood, FL 33026, USA
+1306 NW 61st St, Miami, FL 33142, USA
+
+Addresses Not Used:
+205 Palm Bay Rd NE, West Melbourne, FL 32904
+14359 SW 2nd Place, Bldg D Newberry, FL 32669
+0 Alton Box Rd Jacksonville, FL 32218
+1035 Park St, Jacksonville, FL 32204, USA
+NW 39th Ave & NW 89 Blvd, Florida 32606, USA
+Rinehart Road & Oregon Avenue, Sanford, FL 32771
+14975 NW 133rd Terrace, Alachua, FL 32615, USA
+The Cypress at Wesley Park
+315 SE 2nd Ave, Gainesville, FL 32601, USA
+317 Blanding Blvd, Orange Park, FL 32073, USA
+10701-10707 US Hwy 19 N, Pinellas Park, FL 33782, USA
+1000 Baldwin Tradeplex Dr, Baldwin, FL 32234, USA
+12061 Narcoossee Rd, Orlando, FL 32832, USA
+0 Plummer Road Jacksonville, FL 32219
+472 Blanding Blvd. | Orange Park, FL
+14325 Black Lake Rd Odessa, FL 33556
+2257 Veterans Memorial Pkwy. Orange City, FL 32763
+0 Lem Turner Road Jacksonville, FL 32218
+736 E Hathaway Ave, Bronson, FL 32621, USA
+115 S 2nd St, Fernandina Beach, FL 32034, USA
+11029 W Colonial Dr, Ocoee, FL 34761, USA
+4700 NW 89 Blvd, Gainesville, FL 32606, USA
+New Kings Rd, Jacksonville, FL, USA
+State Rd 200, Yulee, FL, 32097 USA
+17060 John Morris Rd, Fort Myers, FL 33908, USA
+1 Blanding Blvd. Orange Park, FL 32076
+101 S Hilltop Rd, Brandon, FL 33511
+6153 S US Hwy 1, Fort Pierce, FL 34982, USA
+1720 E Tiffany Dr, West Palm Beach, FL 33407, USA
+Meadow Pointe Blvd & State Rd 56, Wesley Chapel, FL 33544, USA
+6007 SW Archer Road Gainesville, FL 32608
+2120 Oak St, Jacksonville, FL 32204, USA
+3720 NW 43rd St, Gainesville, FL 32606, USA
+7143 Collins Rd, Jacksonville, FL 32244, USA
+1851 S Monroe St, Tallahassee, FL 32301, USA
+NW 39th Ave and NW 89th Blvd, Gainesville, FL 32606, USA
+1500 N Riverside Dr, Pompano Beach, FL 33062, USA
+15519 Bee Line Hwy, Jupiter, FL 33478, USA
+Pure Pebble Dr & Boyette Rd, Riverview, FL
+SW College Rd (Hwy 200) & SW 27th Ave Ocala, FL 33556
+0 Jubal Lane Jacksonville, FL 32244
+9064 Pritchard Rd Jacksonville, FL 32249
+Ridgeway Ln, Lakeland, FL 33803, USA
+1125 Evergreen Ct, Winter Haven, FL 33881, USA
+5803 S US Hwy 17 92, Casselberry, FL 32707, USA
+7910/8024 W. Newberry Road Gainesville, FL 32606
+14481 Normandy Blvd, Jacksonville, FL 32234, USA
+17826 Aprile Dr, Land O' Lakes, FL 33558, USA
+3700 Gulf Blvd, St Pete Beach, FL 33706, USA
+501 W 436 SR W 436 SR Altamonte Springs, FL
+0 SR 200, Yulee, FL, USA
+N Thacker Ave & W Carroll St, Kissimmee, FL 34741, USA
+Beachwalk Blvd & County Road 210, St Johns, FL 32259, USA
+8845 103rd St, Jacksonville, FL 32210, USA
+2005 S Federal Hwy, Fort Lauderdale, FL 33316, USA
+Clubhouse Blvd. & Sugar Mill Dr., New Smyrna Beach, FL 32168
+16801 Yellow Bluff Rd Jacksonville, FL 32226
+E Main St, Apopka, FL 32703, USA
+Sportsman Club Rd, Jacksonville, FL 32219, USA
+6052 San Jose Blvd W, Jacksonville, FL 32217, USA
+US-192 & S Narcoossee Rd, St Cloud, FL 34771, USA
+107 Thomas Industry Wy, St. Augustine, FL 32095, USA
+SW 37th Blvd, Gainesville, FL 32608, USA
+1040 FL-436, Casselberry, FL 32707, USA
+732 Johnson Ave, Lakeland, FL 33801, USA
+N Main St, Jacksonville, FL 32218, USA
+Rolling Rock Drive Brooksville, FL 34613
+CR 218 and US 301, Middleburg, FL, USA
+2429 Lake Dr, Riviera Beach, FL 33404, USA
+304 SW 140th Terrace, Newberry, FL 32669, USA
+Boyette Rd & McMullen Rd, Riverview, FL 33569, USA
+1404 Blair Rd, Jacksonville, FL 32221, USA
+2455 W International Speedway Blvd, Daytona Beach, FL 32114, USA
+NE Waldo Road Gainesville, FL 32601
+1398 S Woodland Blvd, DeLand, FL 32720, USA
+3736 SW 30th Ave, Fort Lauderdale, FL 33312, USA
+Chestnut St, Kissimmee, FL 34759, USA
+Gate Pkwy from Burnt Mill Rd to Commerce Village Dr | Jacksonville, Florida 32256
+5824 Mining Terrace Jacksonville, FL 32257
+995 N. State Road 434 | Altamonte Springs, FL
+Southern Boulevard Loxahatchee Groves, FL
+14420 NW 151 Blvd, Alachua, FL 32615, USA
+2837 NW 41 St, Suite 310, Gainesville, FL 32606, USA
+3355 Pleasant Hill Rd, Kissimmee, FL 34746, USA
+800 Lomax Street Jacksonville, FL 32204
+St Johns Bluff Rd S, Jacksonville, FL, USA
+4004 Atlantic Blvd, Jacksonville, FL 32207, USA
+Walnut St, Poinciana, FL 34759, USA
+6901 SW 24th Avenue Gainesville, FL 32607
+2575 Blanding Blvd. Middleburg, FL 32068
+7702 Rivergate Dr, Tampa, FL 33619, USA
+3920 Edgewater Drive | Orlando, FL
+2989 Mayport Rd, Jacksonville, FL 32233, USA
+5401 Dunn Ave, Jacksonville, FL 32218, USA
+404 SW 140th Terrace, Newberry, FL 32669, USA
+6127 U.S. Hwy 17-92 N, Davenport, FL 33896, USA
+3483 SW Williston Road Gainesville, FL 32608
+Hegener Dr, Port St. Lucie, FL, USA
+9881 & 9981 SW Lettuce Lake Ave, Arcadia, FL 34269, USA
+Owens Rd, Jacksonville, FL 32218, USA
+730 NW 43rd St, Gainesville, FL 32605, USA
+16000 Block of S. Tamiami Trail, Fort Myers, FL 33912
+1570 W Fairfield Dr, Pensacola, FL 32501, USA
+5131 Congress Ave, Boca Raton, FL 33487, USA
+10334 Southside Blvd. Jacksonville, FL 32256
+50th St E, Jacksonville, FL 32208, USA
+Bolton Avenue Hudson, FL
+1991-1993 Industrial Dr, DeLand, FL 32724, USA
+2514 Myrtle Ave N, Jacksonville, FL 32209, USA
+5940 Beach Blvd. Jacksonville, FL 32207
+Massee Rd & Lionel Way Davenport, FL 33837
+12019 West Newberry Road Gainesville, FL 32606
+1037 Main St, Chipley, FL 32428, USA
+4000 Jones Branch Blvd, Jacksonville, FL 32219, USA
+2050 NW 62nd St, Fort Lauderdale, FL 33309, USA
+26710 SW 144th Ave, Naranja, FL 33032, USA
+Deerwood Park Blvd Jacksonville, FL 32256
+4429 W Eau Gallie Blvd, Melbourne, FL 32934, USA
+1045 SW 11th Way Deerfield Beach, FL 34986
+12401 N 22nd St, Tampa, FL 33612, USA
+610 E Burleigh Blvd, Tavares, FL 32778, USA
+4220 Moncrief Rd, Jacksonville, FL 32209, USA
+5420 10th Ln E, Bradenton, FL 34203, USA
+US Hwy 441 at 6609 NW 120th Ln, Gainesville, FL 32653, USA
+351 SW 140th Terrace, Newberry, FL 32669, USA
+NW 43rd Street Gainesville, FL 32653
+491 Blanding Blvd, Orange Park, FL 32073, USA
+Hickory Tree Road, Saint Cloud, FL, USA
+332 Medcrest Dr, Crestview, FL 32536, USA
+0 Commonwealth Ave. Jacksonville, FL 32254
+Retail / Drive-thru Opportunity with Frontage on US 17
+14000 Block Nano Court; Alachua, FL 32615
+Normandy Blvd, Jacksonville, FL 32221
+NWC Chester Rd & David Hallman Pkwy Yulee, FL 32097
+Philips Hwy & Bentley Rd, Jacksonville, FL 32256, USA
+6300 Racquet Club Dr, Lauderhill, FL 33319, USA
+7264 Jones Branch Rd, Jacksonville, FL 32219, USA
+7015 NW 11th Pl, Gainesville, FL 32605, USA
+840 Tamiami Trail, Port Charlotte, FL 33953, USA
+4915 NW 43rd St, Gainesville, FL 32606, USA
+302 3rd St, Neptune Beach, FL 32266, USA
+US-1, Callahan, FL, USA
+Palmetto, FL, USA
+8405 Honore Ave, Sarasota, FL 34238, USA
+Challenger Pkwy, Alafaya, FL 32826, USA
+3504 Blanding Blvd Orange Park, FL 32210
+2301 W Dr Martin Luther King Jr Blvd, Tampa, FL 33607, USA
+4441 Wesconnett Blvd, Jacksonville, FL 32210, USA
+14577 N Main St, Jacksonville, FL 32218, USA
+2970 SW 50th Terrace, Gainesville, FL 32608, USA
+Arive 850 1857 W Pensacola St, Tallahassee, FL 32304, USA
+930 Howland Blvd. Deltona, FL 32738
+1167 64th Ter Gaineville , Fl 32605
+25845 W U.S. Hwy 27, High Springs, FL 32643, USA
+1880 Everly Ave, Naples, FL 34117, USA
+3500 NE Waldo Rd, Gainesville, FL 32609, USA
+2320 Diplomat Pkwy W, Cape Coral, FL 33993, USA
+4011 E Busch Blvd, Tampa, FL 33617, USA
+827 NW 56th Terrace Gainesville, FL 32605
+Meadow Pointe Blvd. & SR-54, Wesley Chapel 33544 USA
+2051 Dr Martin Luther King Jr Blvd, Riviera Beach, FL 33404, USA
+27701 S Tamiami Trail, Bonita Springs, FL 34134, USA
+1105 S Walnut St, Starke, FL 32091, USA
+3813 University Blvd W, Jacksonville, FL 32217, USA
+4800 W Irlo Bronson Memorial Hwy, Kissimmee, FL 34746, USA
+2665 Park St, Jacksonville, FL 32204, USA
+11411 N State Rd 121, Gainesville, FL 32653, USA
+Wellborn, FL, USA
+7100 W Oakland Park Blvd, Lauderhill, FL 33313, USA
+10571 Normandy Blvd Jacksonville, FL 32221
+401 FL A1AAlt, Jupiter, FL 33477, USA
+E Southport Rd, Florida, USA
+1000 N State Rd 7, Margate, FL 33063, USA
+3400 S Monroe St, Tallahassee, FL 32301, USA
+LPGA Blvd. and Tymber Creek Rd Daytona Beach, FL 32124
+12040 Pioneers Way, Orlando, FL 32832, USA
+Gillespie Ave Jacksonville, FL 32218
+1520 Commerce Creek Blvd, Cape Coral, FL 33909, USA
+2535 SR 16 St. Augustine, FL 32092
+637 Park St, Jacksonville, FL 32204, USA
+5710 Wesconnett Blvd, Jacksonville, FL 32244, USA
+Toledo Blade Blvd & Kenvil Dr, North Port, FL 34288, USA
+8224 Little Road New Port Richey, FL 34654
+645 Palm Coast Pkwy W Palm Coast, FL 32137
+300 W Main St, Lake Butler, FL 32054, USA
+11950 Camden Rd, Jacksonville, FL 32218, USA
+1107 S Walnut St, Starke, FL 32091, USA
+11705 Industry Dr, Jacksonville, FL 32218, USA
+6800 block of Land O'Lakes Blvd., Land O'Lakes, FL 34638
+11801 Heron Bay Blvd, Coral Springs, FL 33076, USA
+108 Lee Rd, Jacksonville, FL 32225, USA
+1605 W US Hwy 90, Lake City, FL 32055, USA
+9775 NW 39th Ave, Gainesville, FL 32606, USA
+7079 David Blvd, Port Charlotte, FL 33981, USA
+3698 SW 15th St, Lauderhill, FL 33311, USA
+785 & 935 N Independence Hwy, Inverness, FL 34453, USA
+1253 - 1437 Wendy Ct, Spring Hill, FL 34607, USA
+1059 Park St, Jacksonville, FL 32204, USA
+Hwy 17, Yulee, FL, USA
+Emerson St, Jacksonville, FL 32207, USA
+3814 Talleyrand Ave, Jacksonville, FL 32206, USA
+0 Blanding Blvd Orange Park, FL 32065
+1962 & 1974 S Fletcher Ave, Fernandina Beach, FL 32034, USA
+552 Myrtle Ave N, Jacksonville, FL 32204, USA
+6310 NE Waldo Rd, Gainesville, FL 32609, USA
+3920 SW 38th Street Gainesville , FL 32608
+20763 US Hwy 27, Groveland, FL 34736, USA
+5174 1st Coast Hwy, Fernandina Beach, FL 32034, USA
+NEC Lockwood Ridge Rd. & Desoto Rd., Sarasota, FL 34235
+2476 Kings Rd, Jacksonville, FL 32209, USA
+Touchton Road FL, Jacksonville 32216
+112 Centre St, Fernandina Beach, FL 32034, USA
+8106 International Dr, Orlando, FL 32819, USA
+3834 Blanding Blvd, Jacksonville, FL 32210, USA
+14623 W Newberry Rd, Newberry, FL 32669, USA
+5500 Loma Linda Road Tavares, FL 32778
+1607 Blanding Blvd, Middleburg, FL 32068, USA
+N. Narcoossee Rd. & Jack Brack Rd. St. Cloud , FL 34771
+3545 SW 47th Avenue Gainesville, FL 32608
+218 Annie St, Orlando, FL 32806, USA
+Ocala, FL, USA
+Massee Rd, Florida 33837, USA
+818 Dunn Ave, Jacksonville, FL 32218, USA
+934 Bradshaw Terrace, Orlando, FL 32806, USA
+7710 NW 71st Ct, Tamarac, FL 33321, USA
+No address
+Dyer Blvd. & Flora Blvd., Kissimmee, FL
+9144 SW 49th Pl, Gainesville, FL 32608, USA
+SW 37th Blvd Gainesville, FL 32608
+1720 FL-326, Ocala, FL 34475, USA
+1194 NE Cleveland St, Clearwater, FL 33755, USA
+6563 New Kings Rd, Jacksonville, FL 32219, USA
+12613 Curley St, San Antonio, FL 33576, USA
+8011 Co Rd 469, Center Hill, FL 33514, USA
+6457 US-129, Live Oak, FL 32060, USA
+5233-5415 SW 20th St, Ocala, FL 34474, USA
+2222 State Rd 580, Clearwater, FL 33763, USA
+7707 24th Ct E, Sarasota, FL 34243
+0 Hamilton Street, Jacksonville, FL 32210, USA
+11222 Hutchison Blvd, Panama City Beach, FL 32407, USA
+13830 58th St N, Clearwater, FL 33760, USA
+240 NW 76th Drive Gainesville, FL 32607
+1090 Technology Ave, North Port, FL 34289, USA
+1940 S 8th St, Fernandina Beach, FL 32034, USA
+114 S Olive Ave, West Palm Beach, FL 33401, USA
+W Kelly Park Rd. & 429 Expressway - Apopka, FL
+1824 Dean Rd, Jacksonville, FL 32216, USA
+SE Quadrant US 27-41/SR 24, Archer, FL 32618
+Cortez Blvd Brooksville, FL 34613
+7910-7954 Baymeadows Way, Jacksonville, FL 32256, USA
+1848 S Ridgewood Ave, South Daytona, FL 32119, USA
+361 Blanding Blvd, Orange Park, FL 32073, USA
+SW Becker Rd & SW Village Pkwy, Port St. Lucie, FL 34953, USA
+2526 W Sligh Ave, Tampa, FL 33614, USA
+SWQ US 17 and William Burgess Blvd, Yulee, Florida 32097
+540 Palm Coast Pkwy SW, Palm Coast, FL 32137, USA
+13680 NW 104th Terrace, Alachua, FL 32615, USA
+SW Citrus Blvd Palm City, FL 34990
+7334-7336 Commercial Cir, Fort Pierce, FL 34951, USA
+Reed Canal Rd & S Nova Rd, South Daytona, FL 32119, USA
+3001 Harbor Dr, Fort Lauderdale, FL 33316, USA
+103rd St and Magnolia Valley Dr. Jacksonville, FL 32210
+1826 N Lecanto Hwy, Lecanto, FL 34461, USA
+899 & 851 W Cypress Creek Rd, Fort Lauderdale, FL 33309, USA
+Airport Center Drive & New Berlin Road Jacksonville , FL
+565 Kingsley Ave Orange Park, FL 32073
+9A State St W, Jacksonville, FL 32202, USA
+245 FL-312, St. Augustine, FL 32086
+9417 Princess Palm Ave, Tampa, FL 33619, USA
+15281 NW US HWY 441 Alachua, FL 32615
+1120 S 8th Street Fernandina Beach, FL 32034
+Toledo Blade Blvd & W Price Blvd, North Port, FL 34288, USA
+741 Blanding Orange Park , FL 32065
+5550 NW 111th Blvd, Gainesville, FL 32653, USA
+771-777 Gran Kaymen Way, Apollo Beach, FL 33572, USA
+4012 Atlantic Blvd, Jacksonville, FL 32207, USA
+500 NW 60th St, Gainesville, FL 32607, USA
+9565 Spring Blossom Ln, Fernandina Beach, FL 32034, USA
+4131 Sunbeam Rd, Jacksonville, FL 32257, USA
+US-1 & San Sebastian View, St. Augustine, FL 32095, USA
+1814 N Lecanto Hwy, Lecanto, FL 34461, USA
+3563 Philips Hwy Jacksonville, FL 32207
+712 S 14th St, Leesburg, FL 34748, USA
+877 Blanding Blvd, Orange Park, FL 32065, USA
+5719 NW 13th St, Gainesville, FL 32653, USA
+6400 W Newberry Rd, Gainesville, FL 32605, USA
+134 S. Gornto Lake Road Brandon, FL 33510
+State Rd 207, St. Augustine, FL, USA
+4501 66th St N, St. Petersburg, FL 33709
+Bourassa Blvd. & US Hwy 19, Brooksville, FL 34613
+
+Total listings: 355
+Matching listings: 53
+Non-matching listings: 302
